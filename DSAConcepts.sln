@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSAConcepts", "DSAConcepts\DSAConcepts.csproj", "{63D0FFE6-117D-4D68-8868-DF3E13D160CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algos", "Algos\Algos.csproj", "{5435331C-7969-4259-A4E2-123EB5E1D9EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{D94021B5-5259-4231-AC65-75BCEF248E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D0FFE6-117D-4D68-8868-DF3E13D160CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D0FFE6-117D-4D68-8868-DF3E13D160CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D0FFE6-117D-4D68-8868-DF3E13D160CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D0FFE6-117D-4D68-8868-DF3E13D160CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5435331C-7969-4259-A4E2-123EB5E1D9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5435331C-7969-4259-A4E2-123EB5E1D9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5435331C-7969-4259-A4E2-123EB5E1D9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5435331C-7969-4259-A4E2-123EB5E1D9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94021B5-5259-4231-AC65-75BCEF248E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94021B5-5259-4231-AC65-75BCEF248E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94021B5-5259-4231-AC65-75BCEF248E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94021B5-5259-4231-AC65-75BCEF248E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABC6E47-CA80-46B1-8AE1-FE21BB3EB694}
+	EndGlobalSection
+EndGlobal

@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+/Algos/bin/Debug/net6.0
+/Algos/obj
+/Domain/bin/Debug/net6.0
+/Domain/obj
+/DSAConcepts/bin/Debug/net6.0
+/DSAConcepts/obj
